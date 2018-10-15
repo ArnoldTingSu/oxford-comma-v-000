@@ -1,4 +1,4 @@
-def oxford_comma(array)
+def oxford(array)
 if array.length <= 2
   array.join("and ")
 else return "LOL"
