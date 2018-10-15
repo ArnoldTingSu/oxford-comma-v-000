@@ -1,6 +1,6 @@
 def oxfordtest(array)
 if array.length == 2
-  
+  return "#{array[0]"
   array.join(" and ")
   
 elsif array.length > 2
