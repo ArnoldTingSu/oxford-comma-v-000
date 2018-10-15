@@ -4,6 +4,7 @@ if array.length <= 2
 elsif array.length > 2
   array[-1].insert("and")
   end
+  
   array.join(", ")
 
 
